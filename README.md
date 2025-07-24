@@ -4,11 +4,11 @@ A rice for Hyprland based on Mistborn by Brandon Sanderson
 
 # Instalation:
 ## Dependancies
-hyprland\n
-kitty
-waybar
-hyprpaper
-rofi
+hyprland  
+kitty  
+waybar  
+hyprpaper  
+rofi  
 
 ## Background
 Coming soon, sorry.
